@@ -1,0 +1,4 @@
+# Code owners for critical areas
+# Format: <pattern> <github-username-or-team>
+/src/components/layout/ @Phattarapong26
+smartContract/ @Phattarapong26
