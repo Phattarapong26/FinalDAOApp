@@ -1,14 +1,14 @@
-# FractionalDAO: เปลี่ยนโลกการลงทุนสินทรัพย์จริงด้วย Blockchain 🚀
+# FractionalDAO: เปลี่ยนโลกการลงทุนสินทรัพย์จริงด้วย Blockchain 
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[▶️ **ทดลองใช้งาน FractionalDAO (คลิกที่นี่)**]([https://phattarapong26.github.io/FractionalDAO/#/](https://phattarapong26.github.io/FinalDAOApp/)
+[**ทดลองใช้งาน FractionalDAO (คลิกที่นี่)**]([https://phattarapong26.github.io/FractionalDAO/#/](https://phattarapong26.github.io/FinalDAOApp/)
 
 FractionalDAO คือแพลตฟอร์มที่ช่วยให้ทุกคนสามารถร่วมลงทุนในสินทรัพย์จริง (Real World Asset) ได้อย่างโปร่งใส ปลอดภัย และไร้พรมแดน ด้วยพลังของ Blockchain และ Smart Contract
 
 ---
 
-## ✨ ทำไมต้อง FractionalDAO?
+##  ทำไมต้อง FractionalDAO?
 - **ลงทุนสินทรัพย์จริงแบบ Fractional**: ไม่ต้องใช้เงินก้อนใหญ่ ทุกคนสามารถเป็นเจ้าของร่วมในสินทรัพย์ที่มีมูลค่าสูงได้
 - **โปร่งใส ตรวจสอบได้**: ข้อมูลทุกอย่างบันทึกบน Blockchain ตรวจสอบย้อนหลังได้ 100%
 - **ระบบ Governance กระจายอำนาจ**: นักลงทุนมีสิทธิ์โหวตและตัดสินใจร่วมกัน
@@ -17,18 +17,18 @@ FractionalDAO คือแพลตฟอร์มที่ช่วยให้
 
 ---
 
-## 👩‍💼 สำหรับนักลงทุน
+## สำหรับนักลงทุน
 - กระจายความเสี่ยงด้วยการลงทุนในสินทรัพย์หลากหลายประเภท
 - ได้รับผลตอบแทนตามสัดส่วนการถือครอง
 - มีส่วนร่วมในการบริหารสินทรัพย์ผ่านระบบ DAO
 
 ---
 
-## 📖 เกี่ยวกับโปรเจค
+## เกี่ยวกับโปรเจค
 
 FractionalDAO เป็นเว็บแอปพลิเคชันที่พัฒนาด้วย React, TypeScript และ Vite เชื่อมต่อกับ Smart Contract บน Blockchain เพื่อสร้างระบบการลงทุนแบบกระจายศูนย์ ใช้ UI ทันสมัยด้วย Shadcn/UI และ Tailwind CSS
 
-## 🛠️ เทคโนโลยีที่ใช้
+## เทคโนโลยีที่ใช้
 
 - **Frontend**: React, TypeScript, Vite
 - **UI Components**: Shadcn/UI, Tailwind CSS
@@ -37,7 +37,7 @@ FractionalDAO เป็นเว็บแอปพลิเคชันที่
 - **Routing**: React Router DOM
 - **Form Management**: React Hook Form, Zod
 
-## 🚀 การติดตั้ง
+## การติดตั้ง
 
 ```bash
 # โคลนโปรเจค
@@ -51,7 +51,7 @@ npm install
 npm run dev
 ```
 
-## 📁 โครงสร้างโปรเจค
+## โครงสร้างโปรเจค
 
 ```
 SmartContractMD/
@@ -74,7 +74,7 @@ SmartContractMD/
 └── ...                   # ไฟล์การกำหนดค่าต่างๆ
 ```
 
-## 🔧 การใช้งาน
+## การใช้งาน
 
 1. เชื่อมต่อกับ Wallet (Metamask หรือ wallet อื่นๆ ที่รองรับ)
 2. ดำเนินการโต้ตอบกับ Smart Contract ผ่านอินเตอร์เฟซที่ใช้งานง่าย
@@ -84,7 +84,7 @@ SmartContractMD/
 
 ---
 
-## 🖼️ Screenshots Gallery
+## Screenshots Gallery
 
 ตัวอย่างหน้าจอการใช้งาน FractionalDAO:
 
@@ -120,27 +120,27 @@ SmartContractMD/
 
 ---
 
-## 📝 วิธีมีส่วนร่วมในการพัฒนา
+##  วิธีมีส่วนร่วมในการพัฒนา
 
 การมีส่วนร่วมในโปรเจคนี้ยินดีต้อนรับเสมอ! เรียนรู้เพิ่มเติมได้ที่ [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## 📄 เอกสารเพิ่มเติม
+## เอกสารเพิ่มเติม
 
 - [รายละเอียด Smart Contract](docs/SMART_CONTRACT.md) - เอกสารอธิบายการทำงานของ Smart Contract
 - [คู่มือการใช้งาน](docs/USER_GUIDE.md) - สำหรับผู้ใช้งานทั่วไป
 - [เอกสารสำหรับนักพัฒนา](docs/DEVELOPER.md) - รายละเอียดสำหรับนักพัฒนา
 
-## 📄 ลิขสิทธิ์
+## ลิขสิทธิ์
 
 โปรเจคนี้เผยแพร่ภายใต้ลิขสิทธิ์ MIT - ดูไฟล์ [LICENSE.md](LICENSE.md) สำหรับรายละเอียด
 
-## 📞 ติดต่อ
+## ติดต่อ
 
 หากคุณมีคำถามหรือข้อเสนอแนะ กรุณาเปิด Issue ใน GitHub Repository นี้ หรือติดต่อเราที่ [อีเมล](mailto:phattarapong.phe@spumail.net)
 
 ---
 
-พัฒนาด้วย ❤️ โดยทีม Fundee FractionalDAO 
+พัฒนาด้วย โดยทีม Fundee FractionalDAO 
 
 Computer Science | SPU
 ####เพื่อการศึกษาเท่านั้น!!!!
